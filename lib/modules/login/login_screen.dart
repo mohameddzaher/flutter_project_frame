@@ -29,7 +29,7 @@ class LoginScreen extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: const [
                   Text(
-                "Login",
+                "Loginnnnnnnnnnn",
                 style: TextStyle(
                     color: Colors.white,
                     fontSize: 40,
